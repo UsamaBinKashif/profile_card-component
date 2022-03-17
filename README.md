@@ -17,7 +17,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Links
 
 - Solution URL: [link](https://github.com/UsamaBinKashif/profile_card-component)
-- Live Site URL: [link](https://usamabinkashif.github.io/QR-Code-Component/)
+- Live Site URL: [link](https://usamabinkashif.github.io/profile_card-component/)
 
 <br>
 
